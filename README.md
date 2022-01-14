@@ -51,4 +51,4 @@ Only GermanShepherd can fulfill this in our example.
 <img src="https://raw.githubusercontent.com/schillermann/javascript-type-checking-vscode/main/images/class-interface-3.jpg" alt="Class Interface Type Error Details" width="500">
 
 ## Conclusion
-We could seen that it is possible to get an type error in VS Code without TypeScript.
+We could seen that it is possible to get type errors in VS Code without TypeScript.
